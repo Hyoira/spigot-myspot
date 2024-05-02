@@ -1,0 +1,8 @@
+name: WhereAmI
+version: '${project.version}'
+main: hyoira.whereami.WhereAmI
+api-version: '1.20'
+
+commands:
+  myspot:
+    description: 自分の現在の座標をチャットに送信します
